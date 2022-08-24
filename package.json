@@ -1,0 +1,20 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "## Project Explained The purpose of this project is to create a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL. <br></br> ## Success Criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nugemeister/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nugemeister/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/nugemeister/employee-tracker#readme"
+}
