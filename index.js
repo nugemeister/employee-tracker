@@ -144,7 +144,7 @@ const addEmployee = () => {
 // function for Update Employee Role
 const updateEmployeeRole = () => {
     db.findAllEmployees()
-        .then(([rows]) =>
+        .then(([rows]) => {
             let employees = rows;
             const employeeNames = employees.map(({id, first_name, last_name}) => ({
                 name: `${first_name} ${last_name}`,
@@ -182,7 +182,7 @@ const updateEmployeeRole = () => {
                         .then(() => init());
                     });
             });
-        );
+        });
 };
 
 // function for View All Roles
