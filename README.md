@@ -50,13 +50,13 @@ Enter the command `npm run test` to run the associated tests.
 
 The following video shows the web application's appearance and functionality:
 
-![This is a recording of the live webpage.](./images/Demo-team-profile-builder.mp4)
+![This is a recording of the live webpage.](./assets/employee-tracker-demo-video.mp4)
 <br></br>
 
 ## Provided Mock-Up for Reference
 
 The following image was provided as a directional mock-up for reference.
 
-![This is a screenshot of the provided mock-up image for reference.](./images/mockup.png)
+![This is a screenshot of the provided mock-up image for reference.](./assets/12-sql-homework-mockup.png)
 <br></br>
 
