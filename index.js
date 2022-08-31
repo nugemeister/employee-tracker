@@ -120,7 +120,7 @@ const addEmployee = () => {
                                     type: 'list',
                                     name: 'manager',
                                     message: "If applicable, who is the employee's manager?",
-                                    choice: managerNames
+                                    choices: managerNames
                                 }
                             ])
                             .then(res => {
